@@ -4,7 +4,7 @@
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: 50% 50%;
-    min-height: 850px;
+    min-height: 650px;
     position: relative;
     overflow: hidden;
 }
@@ -20,7 +20,7 @@
 }
 
 .home .titles-wrap{
-    margin-top: 500px;    
+    margin-top: 300px;    
 }
 
 .home h1{
