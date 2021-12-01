@@ -164,8 +164,12 @@
     height: 50px;
     line-height: 50px;
     font-size: 21px;
-    color: #c9a04f;
+    color: #c9a04f; 
     text-align: center;
+}
+
+.mdi:before, .mdi-set{
+    color: #c9a04f;
 }
 
 .services .service-box .title{
