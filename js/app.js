@@ -1,7 +1,7 @@
 //typed.js
 (function($){
     var typed = new Typed('span.text-rotate', {
-        strings: ["Soy Desarrollador Web", "HTML, CSS, JavaSript, React, C++", "Estudio programacion"], 
+        strings: ["Soy Desarrollador Web", "HTML, CSS, JavaSript, React, C++", "Estudio programación"], 
         typeSpeed: 100,
         backSpeed: 100,
         fadeOut: false,
